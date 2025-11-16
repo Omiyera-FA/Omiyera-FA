@@ -1,16 +1,24 @@
-## Hi there 👋
+# HI, I am FATIMA.
 
-<!--
-**Omiyera-FA/Omiyera-FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a data analyst with a background in Food-science, i am a very detail-oriented data enthusiast with hands-on experience in data cleaning, visualization, and interpretation. Proficient in Excel, Experienced in SQL, and data visualization tools. Eager to apply skills and learn more about data-driven decision making. Committed to meeting strict deadlines while maintaining a focus on quality, user satisfaction, and project alignment with business goals.
 
-Here are some ideas to get you started:
+## Tools i work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ Micrososft Excel
+
+~ SQL
+
+~ Google sheets
+
+## My Projects 
+
+~ [Buying-behavior-of-Nigerians](....)
+
+~ Employee Performance Insight
+
+~ Retail Store Sales
+
+## Lets Connect
+
+[Linkedin](www.linkedin.com/in/fatima-omiyera-a81b10380)
+
