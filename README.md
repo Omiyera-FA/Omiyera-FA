@@ -12,7 +12,7 @@ i am a data analyst with a background in Food-science, i am a very detail-orient
 
 ## My Projects 
 
-~ [Buying-behavior-of-Nigerians](....)
+~ [Buying-behavior-of-Nigerians](https://github.com/Omiyera-FA/Buying-behavior-of-Nigerians/blob/main/Buying%20Behavior%20of%20Nigerians%20Pdf.pdf)
 
 ~ Employee Performance Insight
 
